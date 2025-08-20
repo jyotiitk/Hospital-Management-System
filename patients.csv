@@ -1,0 +1,5 @@
+pateints_id,Name,Age,Gender,Assigned_doctor_id
+p001,Ananya,17,Female,d001
+p002,Harish,47,Male,d003
+p003,Mohan,29,Male,d002
+p004,Reena,36,Female,d003

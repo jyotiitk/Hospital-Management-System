@@ -1,0 +1,5 @@
+bill_id,patient_id,amount,status,notes
+b001,p001,500,paid,Initial Consultation
+b002,p002,750,unpaid,Skin Treatment
+b003,p003,900,unpaid,Follow up+ ECG Test
+b004,p004,650,paid,Allergy Treatment& Medicines

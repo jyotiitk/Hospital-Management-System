@@ -1,0 +1,5 @@
+patient_id,doctor_id,date,status
+p001,d002,8/20/2025,scheduled
+p002,d001,8/17/2025,scheduled
+p003,d003,8/3/2025,scheduled
+p004,d001,8/16/2025,scheduled
